@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  background-color: #eff7f5;
+  color: #f5c4ea; }
+  body h1 {
+    font-family: "Courier New"; }
+  body h2 {
+    text-transform: uppercase;
+    font-size: 2em; }

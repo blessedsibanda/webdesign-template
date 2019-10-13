@@ -1,0 +1,18 @@
+$main-color: #eff7f5;
+$accent-color: rgb(245, 196, 234);
+$font: 'Courier New';
+
+body {
+    margin: 0;
+    background-color: $main-color;
+    color: $accent-color;
+
+    h1 {
+        font-family: $font;
+    }
+
+    h2 {
+        text-transform: uppercase;
+        font-size: 2em;
+    }
+}
