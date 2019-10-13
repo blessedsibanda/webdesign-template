@@ -5,7 +5,7 @@ HTML/CSS/SASS Hot Reload Template
 
 #### Clone this repo and install the dependencies
 
-```git clone https://https://github.com/blessedsibanda/webdesign-template.git```
+```git clone https://github.com/blessedsibanda/webdesign-template.git```
 
 ```cd webdesign-template```
 
